@@ -1,3 +1,2 @@
 ## My Website
-Can be viewed at: https://aethelind.github.io/website/index.html   
-Or: http://aethelind.tk/
+Can be viewed at: https://www.aethelind.com or https://www.aethelind.net 
